@@ -1,1 +1,3 @@
 # 66daysofdata
+
+The Beginning of my independent studies into Python and Data Analitics. More content will come... 
